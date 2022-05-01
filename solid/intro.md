@@ -4,7 +4,7 @@
     <img src="../assets/Solid.png" widht="600px" height="441px">
 </div>
 <br>
-Nesse resumo sobre princípio SOLID, estarei escrevendo baseado as diversas referências que me fizeram chegar ao entendimento dos principios e como aplicar.
+Nesse resumo sobre princípio SOLID, estarei escrevendo baseado as diversas referências que me fizeram chegar ao entendimento dos principios e como aplicar principalmente no laravel.
 
 <br>
 
