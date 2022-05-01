@@ -6,5 +6,6 @@
 Repositório destinado a todo meu estudo sobre estilo de código e princípios SOLID
 
 ## Conteúdo
-- [Clean Code]()
-- [SOLID]()
+- [Clean Code](https://github.com/Danielopes7/estudos-codigolimpo/tree/master/cleancode)
+- [SOLID](https://github.com/Danielopes7/estudos-codigolimpo/tree/master/solid)
+
